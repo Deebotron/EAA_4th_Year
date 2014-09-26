@@ -1,0 +1,154 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  export GIT_SSL_NO_VERIFY=1
+   84  export http_proxy=http://localhost:3128
+   85  export $GIT_SSL_NO_VERIFY
+   86  export run=5
+   87  echo run
+   88  echo $run
+   89  sudo -E apt-get install git
+   90  mkdir EAA
+   91  cd EAA
+   92  ls -l
+   93  touch README.md
+   94  git init
+   95  git add README.md
+   96  git commit -m "first commit"
+   97  git config --global user.email "<your email>"
+   98  git config --global user.email "<your email>"
+   99  git config --global user.email "stephenbegley3"gmail.com"
+
+git config --global user.email "stephenbegley3"gmail.com"
+  100  git config --global user.name "<your username>"
+  101  git config --global user.name "Deebotron"
+  102  git remote add origin https://github.com/Deebotron/EAA_4th_Year.git
+  103  git config --global user.email "<your email>"
+  104  git config --global user.email "stephenbegley@gmail.com"
+  105  git config --global user.name "<your username>"
+  106  git config --global user.name "Deebotron"
+  107  git remote add origin https://github.com/Deebotron/EAA_4th_Year.git
+  108  git push -u origin master
+  109  git config --global user.email "stephenbegley@gmail.com"
+  110  git config --global user.name "Deebotron"
+  111  git remote add origin https://github.com/Deebotron/EAA_4th_Year.git
+  112  history
+  113  git commit -m "first commit"
+  114  git remote add origin https://github.com/Deebotron/EAA_4th_Year.git
+  115  git push -u origin master
+  116  git commit -a
+  117  git push origin master
+  118  git commit -a
+  119  git push origin master
+  120  git commit -a
+  121  git commit -a
+  122  git push origin master
+  123  cd
+  124  cat /proc/cpuinfo | grep processor | wc -1
+  125  wc
+  126  wc --help
+  127  cat /proc/cpuinfo | grep processor | wc -l
+  128  cd EAA
+  129  touch script.sh
+  130  cd ..
+  131  cd Eaa
+  132  cd EAA
+  133  git add -a
+  134  git add -A
+  135  git commit -a
+  136  git push origin master
+  137  history
+  138  history > history.txt
+  139  git add -A
+  140  git commit -a
+  141  git push origin master
+  142  git commit -a
+  143  git commit -a
+  144  git push origin master
+  145  gedit script.sh
+  146  ls -l
+  147  chmod +x script.sh
+  148  ls -l
+  149  ./script.sh
+  150  git commit -a
+  151  git push origin master
+  152  history > history1.txt
